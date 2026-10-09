@@ -1,6 +1,6 @@
-🛡️ Cerbère Auditor
+🛡️ CERBERE-Smart-Security-Auditor
 
-Cerbère is a lightweight, ultra-fast, and 100% offline security analysis and code auditing tool. It allows you to analyze software projects using an extensive framework of 235 security checks, covering modern web vulnerabilities, smart contracts, systems code, and autonomous AI agents.
+CERBERE-Smart-Security-Auditor is a lightweight, ultra-fast, and 100% offline security analysis and code auditing tool. It allows you to analyze software projects using an extensive framework of 235 security checks, covering modern web vulnerabilities, smart contracts, systems code, and autonomous AI agents.
 
 ✨ Key Features
 235 Security Checks: Comprehensive coverage ranging from traditional web vulnerabilities (OWASP Top 10) to modern architectures.
