@@ -27,8 +27,8 @@ Cross-Cutting Security Enhancements: Security headers (Permissions-Policy, Refer
 No complex installation, Node.js server, or Docker container is required.
 
 1. Download the project
-git clone https://github.com/mikateproduction-wq/Cerbere_auditeur.git
-cd Cerbere_auditeur
+git clone https://github.com/mikateproduction-wq/CERBERE-Smart-Security-Auditor.git
+cd CERBERE-Smart-Security-Auditor
 2. Launch the application
 
 Simply double-click the cerbere-auditeur.html file to open it in your web browser (Chrome, Firefox, Edge, Brave, or Safari).
